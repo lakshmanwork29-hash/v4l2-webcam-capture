@@ -1,0 +1,8 @@
+*.o
+*.out
+*.jpg
+*.jpeg
+*.yuyv
+a.out
+v4l2_capture
+
